@@ -1,6 +1,6 @@
 # patika-bootstrap-odev
 
-HTML - CSS - Bootstrap Exercise
+HTML - CSS - Bootstrap 4 Exercise
 
 ![preview](preview.gif)
 
